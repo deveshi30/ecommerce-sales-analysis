@@ -23,7 +23,7 @@ A comprehensive data analysis project on Target’s e-commerce dataset.
 Dataset sourced from Kaggle: [Target Dataset](https://www.kaggle.com/datasets/devarajv88/target-dataset)
 
 ## 📌 Key Insights
-- Top 3 product categories contribute 24.4% of total sales
+- Top 3 product categories contribute 30.95% of total sales
 - 99.9981% of orders were paid using installment plans
 
 ## 📞 Contact
